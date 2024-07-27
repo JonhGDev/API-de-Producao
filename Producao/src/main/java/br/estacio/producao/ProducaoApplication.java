@@ -1,4 +1,4 @@
-package com.empresa.producao;
+package br.estacio.producao;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
